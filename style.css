@@ -1,0 +1,16 @@
+h1
+{
+    color: rgb(35, 8, 59);
+    font-weight: bold;
+    background-color: rgb(241, 241, 151);
+}
+table ,th , td {
+  border-collapse: collapse;
+  border: 1px solid black;
+  text-align: center;
+  padding-left: 1px;
+  padding-right: 1px;
+  border-collapse: separate;
+}
+body{
+    background-color: rgb(169, 197, 248);
