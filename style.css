@@ -14,3 +14,7 @@ table ,th , td {
 }
 body{
     background-color: rgb(169, 197, 248);
+}
+hr{
+  color: black;
+}
